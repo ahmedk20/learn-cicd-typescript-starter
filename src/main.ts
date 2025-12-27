@@ -48,4 +48,7 @@ app.listen(config.api.port, () => {
   console.log(`Server is running on port: ${config.api.port}`);
 
 });
+<<<<<<< HEAD
 
+=======
+>>>>>>> 0f47488 (dfdfd)
